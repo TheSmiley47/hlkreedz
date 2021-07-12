@@ -52,7 +52,7 @@
 #define FL_ONGROUND_ALL (FL_ONGROUND | FL_PARTIALGROUND | FL_INWATER | FL_CONVEYOR | FL_FLOAT)
 
 #define MAX_RACE_ID                     65535
-#define MAX_FPS_MULTIPLIER              4	// for replaying demos at a max. fps of 250*MAX_FPS_MULTIPLIER
+#define MAX_FPS_MULTIPLIER              4	// for replaying demos at a max fps of 250*MAX_FPS_MULTIPLIER
 #define MIN_COUNTDOWN                   1.0
 #define AG_COUNTDOWN                    10.0
 #define MAX_COUNTDOWN                   30.0
